@@ -27,8 +27,8 @@ public class FunctionsChallengePS {
         // Return the number of characters in common between the 2 input strings. Duplicates should
         // only be counted once. The characters can appear in any order.
         //
-        // Example: "ignore treatments" and "spotty advice" will return 6 since they have the
-        // characters {i, o, e, <space>, t, s} in common.
+        // Example: "ignore treatments" and "spotty advice" will return 7 since they have the
+        // characters {i, o, e, <space>, t, a, s} in common.
 
         return 0;
     }
